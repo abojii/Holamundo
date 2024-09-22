@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\andrea\\Documents\\ejercicios\\ejercicio1\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{CE505B89-00C3-4FEC-86BF-38482D9BDD05}|ejercicio1\\ejercicio1.csproj|c:\\users\\andrea\\documents\\ejercicios\\ejercicio1\\ejercicio1\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CE505B89-00C3-4FEC-86BF-38482D9BDD05}|ejercicio1\\ejercicio1.csproj|solutionrelative:ejercicio1\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -23,18 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ejercicio1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\andrea\\Documents\\ejercicios\\ejercicio1\\ejercicio1\\ejercicio1.cs",
-              "RelativeDocumentMoniker": "ejercicio1\\ejercicio1.cs",
-              "ToolTip": "C:\\Users\\andrea\\Documents\\ejercicios\\ejercicio1\\ejercicio1\\ejercicio1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ejercicio1\\ejercicio1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T22:50:16.015Z",
-              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
